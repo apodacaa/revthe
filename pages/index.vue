@@ -3,11 +3,15 @@
     <div>
       <Logo />
       <div class="links">
-        <a class="button is-outlined is-primary"
+        <NuxtLink
+          class="button is-outlined is-primary"
           target="_blank"
+          to="/about"
         >
-          ABOUT
-        </a>
+          About
+        </NuxtLink>
+        <a class="button is-outlined is-primary" target="_blank">Contact</a>
+        <a class="button is-outlined is-primary" target="_blank">COVID-19</a>
       </div>
     </div>
   </div>
@@ -15,19 +19,6 @@
 
 <script lang="ts">
 import Vue from 'vue'
+
 export default Vue.extend({})
 </script>
-
-<style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-.links {
-  padding-top: 15px;
-}
-</style>

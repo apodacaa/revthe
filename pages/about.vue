@@ -1,6 +1,7 @@
 <template>
-  <div class="container">
-      <p>About</p>
+  <div>
+    <h1>About</h1>
+    <p>About</p>
   </div>
 </template>
 
@@ -9,18 +10,3 @@ import Vue from 'vue'
 
 export default Vue.extend({})
 </script>
-
-<style>
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.links {
-  padding-top: 15px;
-}
-</style>
