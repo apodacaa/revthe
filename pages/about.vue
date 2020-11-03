@@ -1,8 +1,6 @@
 <template>
   <div class="container">
-    <div>
-      <Logo />
-    </div>
+      <p>About</p>
   </div>
 </template>
 
@@ -20,5 +18,9 @@ export default Vue.extend({})
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+
+.links {
+  padding-top: 15px;
 }
 </style>
