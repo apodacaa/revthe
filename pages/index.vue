@@ -9,7 +9,6 @@
         >
           About
         </NuxtLink>
-        <a class="button is-outlined is-primary">Contact</a>
         <a class="button is-outlined is-primary">COVID-19</a>
       </div>
     </div>

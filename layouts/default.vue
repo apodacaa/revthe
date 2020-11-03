@@ -35,4 +35,8 @@ html {
   align-items: center;
   text-align: center;
 }
+.title {
+  color: hsl(171, 100%, 41%);
+  margin: 20px 20px auto;
+}
 </style>
