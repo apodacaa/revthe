@@ -2,13 +2,19 @@
   <div class="container">
     <div>
       <Logo />
+      <div class="links">
+        <a class="button is-outlined is-primary"
+          target="_blank"
+        >
+          ABOUT
+        </a>
+      </div>
     </div>
   </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
-
 export default Vue.extend({})
 </script>
 
@@ -20,5 +26,8 @@ export default Vue.extend({})
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+.links {
+  padding-top: 15px;
 }
 </style>
