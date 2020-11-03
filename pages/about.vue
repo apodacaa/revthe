@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>About</h1>
-    <p>About</p>
+    <p>Pull in Markdown</p>
   </div>
 </template>
 
