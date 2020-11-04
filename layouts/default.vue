@@ -18,16 +18,10 @@ html {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
-.container {
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
 .links {
   padding-top: 15px;
+  text-align: center;
+  margin-bottom: 20px;
 }
 .content {
   display: flex;
@@ -38,5 +32,8 @@ html {
 .title {
   color: hsl(171, 100%, 41%);
   margin: 20px 20px auto;
+}
+p {
+  margin: 5px 20px auto;
 }
 </style>
