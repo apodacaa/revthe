@@ -7,7 +7,7 @@
     <p>Daniel Trigg</p>
     <p>Anthony Apodaca</p>
     <h2 class="title is-2">Supporters</h2>
-    
+    <p>A lot of people have donated their time and/or money to help make Revelry a welcoming and affordable place for local artists to create and experiement. Thank you to everyone!</p>
     <p>Eric Wright</p>
     <p>Jenna Pacitto</p>
     <p>Sarah Wentsworth</p>
