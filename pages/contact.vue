@@ -34,9 +34,3 @@ export default Vue.extend({
   //}
 })
 </script>
-
-<style scoped>
-a {
-  color: $link;
-}
-</style>

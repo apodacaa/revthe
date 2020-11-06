@@ -36,4 +36,7 @@ html {
 p {
   margin: 5px 20px auto;
 }
+a {
+  color: $primary;
+}
 </style>
