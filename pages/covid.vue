@@ -3,7 +3,7 @@
     <h1 class="title is-1">Covid-19</h1>
     <p>Well, shit.</p>
     <p>Despite our best efforts, there was simply no way to keep our doors open for the duration of this pandemic. We are not shutting down our business, but having our own space is off the table for the foreseeable future.</p>
-    <p>We hope to open again once as soon as conditions permit.</p>
+    <p>We hope to open once again as soon as conditions permit.</p>
     <div class="links">
         <NuxtLink
           class="button is-outlined is-primary"
