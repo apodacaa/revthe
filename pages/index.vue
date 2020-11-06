@@ -3,12 +3,12 @@
     <div>
       <Logo />
       <div class="links">
-        <NuxtLink
-          class="button is-outlined is-primary"
+        <NuxtLink 
+          class="button is-outlined is-primary" 
           to="/about"
-        >
+          >
           About
-        </NuxtLink>
+          </NuxtLink>
         <NuxtLink
           class="button is-outlined is-primary"
           to="/people"
