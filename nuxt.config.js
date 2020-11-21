@@ -8,7 +8,10 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Revelry Theater' },
+      { hid: 'og:description', name: 'og:description', property: 'og:description', content: 'Revelry Theater' },
+      { name: 'twitter:card', content: 'summary'},
+      { name: 'twitter:title', content: 'Revelry Theater'}
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
   },
